@@ -1,3 +1,4 @@
+# cairo-compile linear_function.cairo --output linear_function_compiled.json
 # cairo-run --program=linear_function_compiled.json --program_input=linear_function_input.json --print_output --layout=small
 
 %builtins output
